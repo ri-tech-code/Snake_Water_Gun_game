@@ -47,4 +47,4 @@ This project helps beginners practice:
 * Graphical user interface (GUI)
 * Multiplayer mode
 * Difficulty levels and statistics tracking
-# Snake_Water_Gun_game
+
